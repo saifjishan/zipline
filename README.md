@@ -144,6 +144,10 @@ For more information, like other providers, see the [docs](https://zipline.diced
 
 ### Starting Zipline
 
+
+![image](https://github.com/user-attachments/assets/786c377d-7d71-40e3-a982-90fc1f013305)
+
+
 Simply run the following command to start the server:
 
 ```bash
